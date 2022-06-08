@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AnyBrousers</string>
+    <string name="search">Enter your question...</string>
+    <string name="backhome">Вернуться на главную</string>
+    <string name="help">
+        <br /><font size="20" color="red" face="Arial">Яндекс Браузер</font> ----- Глобальный поиск в интернете от Yandex ||\n
+        \n<font size="20" color="red" face="Arial">Google</font> ----- Глобальный поиск в интернете от Google ||\n
+        \n<font size="20" color="red" face="Arial">YouTube</font> ----- Поиск видео ||\n
+        \n<font size="20" color="red" face="Arial">Яндекс карты</font> ----- Поиск мест ||\n
+        \n<font size="20" color="red" face="Arial">Яндекс Маркет</font> ----- Поиск товаров ||\n
+        \n<font size="20" color="red" face="Arial">Steam</font> ----- Поиск игр ||\n
+        \n<font size="20" color="red" face="Arial">Dzen</font> ----- Поиск статей и блогов людей ||\n
+        \n<font size="20" color="red" face="Arial">Mail.ru</font> ----- Глобальный поиск в интернете от Mail.ru ||\n
+        \n<font size="20" color="red" face="Arial">VK</font> ----- Поиск личных аккаунтов и сообществ ||\n
+        \n<font size="20" color="red" face="Arial">Кинопоиск</font> ----- Поиск различных фильмов ||\n
+        \n<font size="20" color="red" face="Arial">Play Market</font> ----- Поиск игр на Android ||\n
+        \n<font size="20" color="red" face="Arial">Avito</font> ----- Поиск б/у товаров от настоящих продовцов ||\n
+    </string>
+</resources>
